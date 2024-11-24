@@ -1,0 +1,12 @@
+.\objects\stm32f1xx_ll_utils.o: LIB\Src\stm32f1xx_ll_utils.c
+.\objects\stm32f1xx_ll_utils.o: .\LIB\Inc\stm32f1xx_ll_rcc.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\stm32f1xx.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\stm32f103xb.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\core_cm3.h
+.\objects\stm32f1xx_ll_utils.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\cmsis_version.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\cmsis_compiler.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\stm32f1xx_ll_utils.o: .\CMSIS\Include\system_stm32f1xx.h
+.\objects\stm32f1xx_ll_utils.o: .\LIB\Inc\stm32f1xx_ll_utils.h
+.\objects\stm32f1xx_ll_utils.o: .\LIB\Inc\stm32f1xx_ll_system.h
